@@ -1,0 +1,11 @@
+.magazine__aside {
+  margin: 0;
+  padding: 0;
+  grid-column: 1;
+}
+
+@media screen and (max-width: 768px) {
+  .magazine__aside {
+    grid-column: 2;
+  }
+}

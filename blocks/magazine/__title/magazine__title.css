@@ -1,0 +1,5 @@
+.magazine__title {
+  margin: 0;
+  padding: 0;
+  grid-column: 2;
+}

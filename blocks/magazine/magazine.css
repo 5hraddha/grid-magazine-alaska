@@ -1,0 +1,17 @@
+.magazine {
+  margin: 0 auto;
+  padding: 0;
+  width: 100%;
+  max-width: 1000px;
+  display: grid;
+  grid-template-columns: 1fr 3fr 1fr;
+  gap: 1.5em;
+  border: 1px solid red;
+}
+
+@media screen and (max-width: 768px) {
+  .magazine {
+    grid-template-columns: auto 1fr auto;
+    gap: 1em;
+  }
+}

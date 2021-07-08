@@ -1,1 +1,19 @@
+/* stylesheet from the external vendor */
 @import url(../vendor/normalize.css);
+
+/* stylesheets for the block - page */
+@import url(../blocks/page/page.css);
+
+/* stylesheets for the block - magazine */
+@import url(../blocks/magazine/magazine.css);
+@import url(../blocks/magazine/__aside/magazine__aside.css);
+@import url(../blocks/magazine/__aside-para/magazine__aside-para.css);
+@import url(../blocks/magazine/__citation/magazine__citation.css);
+@import url(../blocks/magazine/__main-content/magazine__main-content.css);
+@import url(../blocks/magazine/__para/magazine__para.css);
+@import url(../blocks/magazine/__title/magazine__title.css);
+
+/* stylesheets for the block - figure */
+@import url(../blocks/figure/figure.css);
+@import url(../blocks/figure/__caption/figure__caption.css);
+@import url(../blocks/figure/__img/figure__img.css);
