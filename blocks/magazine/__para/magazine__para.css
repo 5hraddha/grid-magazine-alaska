@@ -1,4 +1,5 @@
 .magazine__para {
-  margin: 0;
+  margin: 20px 0 0;
   padding: 0;
+  text-align: justify;
 }

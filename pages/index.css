@@ -14,6 +14,7 @@
 @import url(../blocks/magazine/__citation/magazine__citation.css);
 @import url(../blocks/magazine/__main-content/magazine__main-content.css);
 @import url(../blocks/magazine/__para/magazine__para.css);
+@import url(../blocks/magazine/__para-first-letter/magazine__para-first-letter.css);
 @import url(../blocks/magazine/__title/magazine__title.css);
 @import url(../blocks/magazine/__title/_place/magazine__title_place_bottom.css);
 @import url(../blocks/magazine/__title/_place/magazine__title_place_middle.css);
