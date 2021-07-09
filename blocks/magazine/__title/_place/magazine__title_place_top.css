@@ -1,0 +1,12 @@
+.magazine__title_place_top {
+  box-sizing: border-box;
+  margin: 0 0 -30px;
+  padding: 0;
+  display: block;
+  text-align: center;
+  font-family: 'Uchen', serif;
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 1.5;
+  text-transform: uppercase;
+}

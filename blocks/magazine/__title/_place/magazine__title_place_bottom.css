@@ -1,0 +1,16 @@
+.magazine__title_place_bottom {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  display: block;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 50px;
+  font-weight: 900;
+  line-height: 1.5;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  text-shadow: 2px 2px 4px #c1c5d6;
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000;
+}

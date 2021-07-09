@@ -1,5 +1,8 @@
 /* stylesheet from the external vendor */
 @import url(../vendor/normalize.css);
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,300;0,400;0,600;1,300;1,400;1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Uchen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@900&family=Uchen&display=swap');
 
 /* stylesheets for the block - page */
 @import url(../blocks/page/page.css);
@@ -12,6 +15,9 @@
 @import url(../blocks/magazine/__main-content/magazine__main-content.css);
 @import url(../blocks/magazine/__para/magazine__para.css);
 @import url(../blocks/magazine/__title/magazine__title.css);
+@import url(../blocks/magazine/__title/_place/magazine__title_place_bottom.css);
+@import url(../blocks/magazine/__title/_place/magazine__title_place_middle.css);
+@import url(../blocks/magazine/__title/_place/magazine__title_place_top.css);
 
 /* stylesheets for the block - figure */
 @import url(../blocks/figure/figure.css);
