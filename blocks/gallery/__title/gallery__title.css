@@ -1,0 +1,13 @@
+.gallery__title {
+  margin: 0;
+  padding: 5px 0 5px 10px;
+  font-family: 'Uchen', serif;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #1c629e;
+  background-color: #e3f5ff; 
+  background-image: linear-gradient(to left, #e3f5ff 0% 40%, #fff 60% 100%);
+  border-left: 4px solid #1c629e;
+}

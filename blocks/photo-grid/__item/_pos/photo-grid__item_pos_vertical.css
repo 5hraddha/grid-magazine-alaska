@@ -1,0 +1,11 @@
+.photo-grid__item_pos_vertical {
+  grid-column: span 1;
+  grid-row: span 2;
+}
+
+@media screen and (max-width: 768px) {
+  .photo-grid__item_pos_vertical {
+    grid-column: span 1;
+    grid-row: span 1;
+  }
+}
