@@ -1,7 +1,10 @@
 .photo-grid__img {
+  box-sizing: border-box;
   margin: 0;
   padding: 0;
   width: 100%;
   height: 100%;
   object-fit: cover;
+  outline: 1px solid #fff;
+  outline-offset: -5px;
 }
