@@ -30,3 +30,6 @@ The technologies that have been used are:
 The website is using [BEM — Block Element Modifier](https://en.bem.info/methodology/quick-start/) methodology to create reusable and understandable components in CSS. The idea behind it is to divide the user interface into independent blocks. This makes interface development easy and fast and it allows reuse of existing code without copying and pasting. We are also using [Nested BEM File structure organization](https://en.bem.info/methodology/filestructure/#nested) for CSS.
 
 ## Demo
+Check out the webpage [here](https://5hraddha.github.io/grid-magazine-alaska/)  
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F5hraddha%2Fgrid-magazine-alaska%2F&count_bg=%236CBFED&title_bg=%231C629E&icon=trustpilot.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
