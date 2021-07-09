@@ -1,4 +1,18 @@
 .magazine__aside-para {
+  box-sizing: border-box;
   margin: 0;
-  padding: 0;
+  padding: 0 5px 0 0;
+  font-style: italic;
+  color: #1c629e;
+  text-align: right;
+  border-right: 4px solid #1c629e;
+}
+
+@media screen and (max-width: 768px) {
+  .magazine__aside-para {
+    padding: 0 0 0 5px;
+    text-align: justify;
+    border-left: 4px solid #1c629e;
+    border-right: none;
+  }
 }

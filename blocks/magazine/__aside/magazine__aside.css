@@ -6,6 +6,7 @@
 
 @media screen and (max-width: 768px) {
   .magazine__aside {
+    margin-top: 1em;
     grid-column: 2;
   }
 }
