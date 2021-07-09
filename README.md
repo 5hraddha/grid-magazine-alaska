@@ -1,5 +1,5 @@
 # Project: CSS Grid Magazine
-This is a simple responsive magazine page on exploring Alaska. This page has been made using CSS Grid.
+This is a simple responsive magazine page on exploring **Alaska**. This page has been made using CSS Grid.
 
 ## Technologies and Standards Used
 The technologies that have been used are:
@@ -9,7 +9,6 @@ The technologies that have been used are:
 **There are various tools that have been used throughout the project design and development:**
 | Tools                                             | Usage                                             |
 |---------------------------------------------------|---------------------------------------------------|
-| Figma                                             | For referring to the product design specification |
 | [TinyPng](https://tinypng.com/)                   | For JPEG/PNG Image Compression                    |
 
 **The main concepts that have been emphasized are:**
