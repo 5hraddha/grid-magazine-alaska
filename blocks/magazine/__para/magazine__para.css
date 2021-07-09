@@ -1,5 +1,9 @@
 .magazine__para {
-  margin: 20px 0 0;
+  margin: 0;
   padding: 0;
   text-align: justify;
+}
+
+.magazine__para + .magazine__para {
+  margin-top: 20px;
 }
