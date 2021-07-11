@@ -2,7 +2,7 @@
 This is a simple responsive magazine page on exploring **Alaska**. This page has been made using CSS Grid.
 
 ## Technologies and Standards Used
-The technologies that have been used are:
+**The technologies that have been used are:**
   1. HTML (Hyper Text Markup Language)
   2. CSS (Cascading Style Sheets)
 
